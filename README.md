@@ -22,7 +22,7 @@ cd php -S localhost:8080
 ```
 
 Add the required file to the url in your browser, for example:
-http://localhost:8000/question7.html
+http://localhost:8000/name-of-answer-file
 
 ## Question 6
 
@@ -30,5 +30,12 @@ Question 6 answer is in questions/question6.php file. the client information is 
 
 ## Question 7
 
-The answer script for question 7 is in questions/question7.php file.
+The answer script for question 7 is in questions/question7.html file.
+
+Add "/question7.html" to the url in your browser.
+
+## Question 8
+
+The answer script for question 8 is in questions/question8.php file.
+Add "/question8.php" to the url in your browser.
 
