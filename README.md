@@ -26,7 +26,9 @@ http://localhost:8000/name-of-answer-file
 
 ## Question 6
 
-Question 6 answer is in questions/question6.php file. the client information is defined in the .env file which has being pushed in the directory as well without any confidential information (for assessment purposes only).
+Question 6 answer is in questions/question6.php file. 
+
+The client information is defined in the .env file which has being pushed in the directory as well without any confidential information (for assessment purposes only).
 
 ## Question 7
 
@@ -37,5 +39,11 @@ Add "/question7.html" to the url in your browser.
 ## Question 8
 
 The answer script for question 8 is in questions/question8.php file.
+
 Add "/question8.php" to the url in your browser.
 
+## Question 10
+
+The answer script for question 10 is in questions/question10.html file.
+
+Add "/question10.html" to the url in your browser.
