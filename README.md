@@ -28,7 +28,7 @@ http://localhost:8000/name-of-answer-file
 
 Question 6 answer is in questions/question6.php file. 
 
-The client information is defined in the .env file which has being pushed in the directory as well without any confidential information (for assessment purposes only).
+The client information is defined in the .env file which has been pushed in the directory as well without any confidential information (for assessment purposes only).
 
 ## Question 7
 
